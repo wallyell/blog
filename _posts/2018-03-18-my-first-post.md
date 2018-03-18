@@ -9,18 +9,14 @@ modify_date: 2018-03-18 22:00:00 +08:00
 
 ---
 
-Article with long TOC.
-
 <!--more-->
 
-## TeXt Heading
+## 第一个主题
 
-```cpp
-#include<iostream.h>
-int main()
-{
-	cout<<"hello world!"<<endl;
-	return 0;
-}
+
+- 第一个内容
+
+
+hello blog!
 
 ```
