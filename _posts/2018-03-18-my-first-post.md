@@ -1,11 +1,11 @@
 ---
 layout: post
 title: 第一篇博客
-key: 20150101
+key: 20180318
 tags: thinking
 category: blog
-date: 2015-11-02 23:00:00 +08:00
-modify_date: 2017-09-11 21:00:00 +08:00
+date: 2018-03-18 22:00:00 +08:00
+modify_date: 2018-03-18 22:00:00 +08:00
 
 ---
 
