@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 第一篇个人博客
+title: 第一篇博客
 key: 20150101
 tags: thinking
 category: blog
